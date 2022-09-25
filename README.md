@@ -1,1 +1,6 @@
 # DAMG_6210_Foodly
+
+We aim to build a database that stores the nutritional information of different food groups. Some of the Various fields of the database include the serving size of an item, its calories, its protein, fats, sodium, and fiber content, etc. We will also add allergen information regarding if an entry contains soy, peanuts, lactose, etc. We further plan to categorize the items into categories such as fast food, packaged, frozen, and processed. We will also add cuisine options (Chinese, continental, Italian, Indian).
+The following people might find value in this database. Fitness enthusiasts could sort/filter the foods based on the protein content. A list of foods with low sugar/sodium content could be searched for or found by people with medical issues (such as Diabetes/Blood Pressure). People with digestion issues could maybe look up foods with high fiber content. People could also check the database for specific allergen information like lactose content/peanut content for allergies. Apps for fitness and nutrition may also use it to show their users the nutritional facts for various items that have been logged. It might also be connected to a UI and hosted as a web app in the future, where people may search for food information or upload new items and the corresponding data (making it an ever-expanding database).
+
+
